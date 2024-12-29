@@ -1,4 +1,9 @@
-# Retrieval Code 
+"""
+Retrieval code from LangChain website: https://python.langchain.com/v0.2/docs/tutorials/rag/
+"""
 retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 6})
 retrieved_docs = retriever.invoke("What are the approaches to Task Decomposition?")
 len(retrieved_docs)
+
+# Test it out 
+print(retrieved_docs[0].page_content)
