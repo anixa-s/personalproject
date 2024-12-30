@@ -1,5 +1,7 @@
 <h3> The project was completed with the following libraries: </h3>
-<body>from langchain.document_loaders import DirectoryLoader
+<body>
+
+  from langchain.document_loaders import DirectoryLoader
 from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
@@ -15,7 +17,8 @@ import shutil
 
 <h3> Install the following in your VS Code terminal: </h3>
 <body> 
-pip install langchain 
+
+  pip install langchain 
 pip install chromadb  
 pip install PyPDFLoader 
 </body>
