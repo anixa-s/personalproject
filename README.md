@@ -1,4 +1,4 @@
-<h3> The project was completed with the following libraries: </h3>
+<h3> The project was completed with the following libraries and packages: </h3>
 <body>
 <li>from langchain.document_loaders import DirectoryLoader</li>
 <li>from langchain_community.document_loaders import PyPDFDirectoryLoader</li>
@@ -16,9 +16,8 @@
 
 <h3> Install the following in your VS Code terminal: </h3>
 <body> 
-
-  pip install langchain 
-pip install chromadb  
-pip install PyPDFLoader 
+<li>pip install langchain</li>
+<li>pip install chromadb</li>
+<li>pip install PyPDFLoader</li>
+<li>pip install ollama</li>
 </body>
-](https://github.com/anixa-s/personalproject.git)
