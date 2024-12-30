@@ -20,4 +20,5 @@
 <li>pip install chromadb</li>
 <li>pip install PyPDFLoader</li>
 <li>pip install ollama</li>
+<li>pip install sentence-transformers</li>
 </body>
