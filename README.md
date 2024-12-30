@@ -1,4 +1,4 @@
-<h3> The project was completed with the following libraries: </h3>
+[<h3> The project was completed with the following libraries: </h3>
 <body>
 <li>from langchain.document_loaders import DirectoryLoader
 from langchain_community.document_loaders import PyPDFDirectoryLoader
@@ -21,3 +21,4 @@ import shutil</li>
 pip install chromadb  
 pip install PyPDFLoader 
 </body>
+](https://github.com/anixa-s/personalproject.git)
