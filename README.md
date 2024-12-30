@@ -11,7 +11,7 @@
 <li>from langchain.prompts import ChatPromptTemplate</li>
 <li>from dotenv import load_dotenv</li>
 <li>import os</li>
-import shutil</li>
+<li>import shutil</li>
 </body>
 
 <h3> Install the following in your VS Code terminal: </h3>
