@@ -1,17 +1,17 @@
 <h3> The project was completed with the following libraries: </h3>
 <body>
-<list>from langchain.document_loaders import DirectoryLoader
-from langchain_community.document_loaders import PyPDFDirectoryLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.schema import Document
-from langchain_core.output_parsers import StrOutputParser
-from langchain_community.llms import Ollama
-from langchain.vectorstores import Chroma
-from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain.prompts import ChatPromptTemplate 
-from dotenv import load_dotenv
-import os
-import shutil</list>
+<li>from langchain.document_loaders import DirectoryLoader</li>
+<li>from langchain_community.document_loaders import PyPDFDirectoryLoader</li>
+<li>from langchain.text_splitter import RecursiveCharacterTextSplitter</li>
+<li>from langchain.schema import Document</li>
+<li>from langchain_core.output_parsers import StrOutputParser</li>
+<li>from langchain_community.llms import Ollama</li>
+<li>from langchain.vectorstores import Chroma</li>
+<li>from langchain_community.embeddings import HuggingFaceEmbeddings</li>
+<li>from langchain.prompts import ChatPromptTemplate </li>
+<li>from dotenv import load_dotenv</li>
+<li>import os</li>
+<li>import shutil</li>
 </body>
 
 <h3> Install the following in your VS Code terminal: </h3>
