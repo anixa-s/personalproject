@@ -1,6 +1,6 @@
 <h3> The project was completed with the following libraries: </h3>
 <body>
-<list>from langchain.document_loaders import DirectoryLoader
+<li>from langchain.document_loaders import DirectoryLoader
 from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
@@ -11,7 +11,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.prompts import ChatPromptTemplate 
 from dotenv import load_dotenv
 import os
-import shutil</list>
+import shutil</li>
 </body>
 
 <h3> Install the following in your VS Code terminal: </h3>
