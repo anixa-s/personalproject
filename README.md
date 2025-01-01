@@ -21,4 +21,5 @@
 <li>pip install PyPDFLoader</li>
 <li>pip install ollama</li>
 <li>pip install sentence-transformers</li>
+<li>pip install dotenv</li>
 </body>
